@@ -1,3 +1,19 @@
+# First Draft (2/2)
+
+### Updated assets
+
+**File** | **Source** |
+| ----------------------- | ----------------------- |
+| Alarm Clock.wav | Freesound (**citation:** Alarm Clock.WAV by G.Lamont -- https://freesound.org/s/117883/ -- License: Creative Commons 0) |
+| 20070517.classroom.wav | Freesound (**citation:** 20070517.classroom.wav by dobroide -- https://freesound.org/s/35039/ -- License: Attribution 4.0) |
+| singing in the shower.wav | Contains audio from “Espresso” by Sabrina Carpenter, Island Records, 2024. Sourced from Spotify. License: fair use (limited amount used, immaterial effect on market) |
+| Industrial Buzz Long.wav | Freesound (**citation:** Industrial Buzz Long.wav by DeVern -- https://freesound.org/s/346395/ -- License: Creative Commons 0) |
+| Cellos Destroyed and Droned with Paulstretch.wav | Freesound (**citation:** Cellos Destroyed and Droned with Paulstretch.wav by RutgerMuller -- https://freesound.org/s/195850/ -- License: Creative Commons 0) |
+| white noise build [134bpm] [8 bar].wav | Freesound (**citation:** white noise build [134bpm] [8 bar] by deadrobotmusic -- https://freesound.org/s/669962/ -- License: Creative Commons 0) |
+
+All other audio files for this piece were recorded by the creator. 
+
+
 # Preview (1/28)
 
 ### Narrative Preview
