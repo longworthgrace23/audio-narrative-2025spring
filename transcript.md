@@ -97,3 +97,6 @@ Narrator, slightly reverberated: What am I even supposed to do about any of this
 Narrator: sighs sadly
 
 	[Lamp switches off]
+	
+Narrator: This narrative is entitled “Echo Chamber” and was composed by Grace Longworth, a Composing Digital Media student at the University of Pittsburgh. For a full list of sources and credits, please see https://github.com/longworthgrace23/audio-narrative-2025spring. Thanks!
+
